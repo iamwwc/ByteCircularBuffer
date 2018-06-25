@@ -1,2 +1,4 @@
 # ByteCircularBuffer
 java ByteCircularBuffer 
+
+仿照Shadowsocks-Windows ByteCircularBuffer实现的一个Java版本的环形缓冲区
